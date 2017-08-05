@@ -18,7 +18,9 @@ cpu_monitor.stop();
 
 <br>
 
-Output in array of % :
+Output is array of % presented by integers :
 ```
 [ 8, 2, 11, 1 ]
+[ 1, 0, 3, 0 ]
+...
 ```
